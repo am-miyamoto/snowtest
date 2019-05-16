@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="attendees_expected" label="想定人数" language="en" table="x_335931_marketing_x_335931_marketing">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>attendees_expected</element>
+            <help/>
+            <hint/>
+            <label>想定人数</label>
+            <language>en</language>
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <plural>想定人数s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 02:26:31</sys_created_on>
+            <sys_id>a8c22c5f4f3033001f33a88ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>想定人数</sys_name>
+            <sys_package display_value="マーケティングイベント" source="x_335931_marketing">a221acdb4f3033001f33a88ca310c71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="マーケティングイベント">a221acdb4f3033001f33a88ca310c71d</sys_scope>
+            <sys_update_name>sys_documentation_x_335931_marketing_x_335931_marketing_attendees_expected_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 02:26:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

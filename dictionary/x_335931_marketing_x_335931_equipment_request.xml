@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="機器利用申請" max_length="40" name="x_335931_marketing_x_335931_equipment_request" type="collection">
+        <element label="コスト" max_length="40" name="cost" type="string"/>
+        <element label="マーケティングイベント" max_length="40" name="marketing_event" reference="x_335931_marketing_x_335931_marketing" type="reference"/>
+        <element label="貸出希望日" max_length="40" name="needed_from" type="glide_date"/>
+        <element label="返却予定日" max_length="40" name="needed_until" type="glide_date"/>
+        <element label="種類" max_length="40" name="type" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="31266b384f4133001f33a88ca310c7e1" sys_domain="global" table="x_335931_marketing_x_335931_marketing" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-24 08:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42266b384f4133001f33a88ca310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_335931_marketing_x_335931_marketing" name="x_335931_marketing_x_335931_marketing" sys_domain="global" view="Default view">31266b384f4133001f33a88ca310c7e1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_335931_marketing_x_335931_marketing" sys_domain="global" view="Default view">9fa3dd5f4fb033001f33a88ca310c77d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-24 08:31:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-24 08:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e266b384f4133001f33a88ca310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_335931_marketing_x_335931_marketing" name="x_335931_marketing_x_335931_marketing" sys_domain="global" view="Default view">31266b384f4133001f33a88ca310c7e1</sys_ui_form>
+            <sys_ui_section caption="temp" display_value="temp" name="x_335931_marketing_x_335931_marketing" sys_domain="global" view="Default view">3d266b384f4133001f33a88ca310c7df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-24 08:31:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-24 08:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31266b384f4133001f33a88ca310c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_335931_marketing_x_335931_marketing</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="マーケティングイベント" source="x_335931_marketing">a221acdb4f3033001f33a88ca310c71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="マーケティングイベント">a221acdb4f3033001f33a88ca310c71d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_31266b384f4133001f33a88ca310c7e1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-24 08:31:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

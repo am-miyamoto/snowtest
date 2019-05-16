@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="マーケティングイベント" max_length="40" name="x_335931_marketing_x_335931_marketing" type="collection">
+        <element label="想定人数" max_length="40" name="attendees_expected" type="integer"/>
+        <element label="参加人数" max_length="40" name="attendees_registered" type="integer"/>
+        <element label="予算" max_length="20" name="budget" type="currency"/>
+        <element label="開催都市" max_length="40" name="city" type="string"/>
+        <element label="終了日" max_length="40" name="end_date" type="glide_date"/>
+        <element label="添付ファイル" max_length="40" name="image_file" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Log" max_length="40" name="log" type="string"/>
+        <element label="イベント名" max_length="40" name="name" type="string"/>
+        <element label="開催日" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" label="開催地" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="佐賀" value="Saga"/>
+                <element inactive_on_update="false" label="大分" value="Ooita"/>
+                <element inactive_on_update="false" label="福岡" value="Fukuoka"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Tab" max_length="40" name="tab" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="新規 選択肢" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="選択肢 1" sequence="0" value="選択肢 1"/>
+                <element inactive_on_update="false" label="選択肢 2" sequence="1" value="選択肢 2"/>
+                <element inactive_on_update="false" label="選択肢 3" sequence="2" value="選択肢 3"/>
+            </choice>
+        </element>
+        <element label="新規 アイコン" max_length="100" name="u_icon_2" type="icon"/>
+    </element>
+</database>

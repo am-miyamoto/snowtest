@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3aae4337db5133009afecc3039961910" sys_domain="global" table="x_335931_marketing_x_335931_attendee" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 00:45:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2ae4337db5133009afecc3039961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_335931_marketing_x_335931_attendee" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">3aae4337db5133009afecc3039961910</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">4dcbd1174ff033001f33a88ca310c741</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 00:45:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 00:45:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7eae4337db5133009afecc3039961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_335931_marketing_x_335931_attendee" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">3aae4337db5133009afecc3039961910</sys_ui_form>
+            <sys_ui_section caption="イベント" display_value="イベント" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">faae4337db5133009afecc3039961911</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 00:45:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 00:46:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44cecff3db5133009afecc30399619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_335931_marketing_x_335931_attendee" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">3aae4337db5133009afecc3039961910</sys_ui_form>
+            <sys_ui_section caption="ほげ" display_value="ほげ" name="x_335931_marketing_x_335931_attendee" sys_domain="global" view="Default view">08cecff3db5133009afecc30399619c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 00:46:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_335931_marketing_x_335931_attendee</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 00:45:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3aae4337db5133009afecc3039961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_335931_marketing_x_335931_attendee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="マーケティングイベント" source="x_335931_marketing">a221acdb4f3033001f33a88ca310c71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="マーケティングイベント">a221acdb4f3033001f33a88ca310c71d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3aae4337db5133009afecc3039961910</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 00:45:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

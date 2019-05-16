@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_335931_marketing_x_335931_marketing" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>福岡</label>
+            <language>en</language>
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 02:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4d2ac1f4f3033001f33a88ca310c7b8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 02:27:47</sys_updated_on>
+            <value>Fukuoka</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>大分</label>
+            <language>en</language>
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 02:27:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdf22c5f4f3033001f33a88ca310c7f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 02:28:04</sys_updated_on>
+            <value>Ooita</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>佐賀</label>
+            <language>en</language>
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 02:27:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c136c5f4f3033001f33a88ca310c71d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 02:28:07</sys_updated_on>
+            <value>Saga</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_335931_marketing_x_335931_marketing</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-19 02:27:25</sys_created_on>
+            <sys_id>f9f2ac5f4f3033001f33a88ca310c71f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="マーケティングイベント" source="x_335931_marketing">a221acdb4f3033001f33a88ca310c71d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="マーケティングイベント">a221acdb4f3033001f33a88ca310c71d</sys_scope>
+            <sys_update_name>sys_choice_x_335931_marketing_x_335931_marketing_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-19 02:27:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
